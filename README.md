@@ -43,7 +43,7 @@ A polished, responsive React/Next.js interactive calendar component inspired by 
 ## Project Structure
 
 ```
-e:\tuf-assignment/
+tuf-calendar/
 ├── src/
 │   ├── app/
 │   │   ├── layout.tsx          # Root layout with metadata
@@ -93,10 +93,10 @@ e:\tuf-assignment/
 
 ### Steps
 
-1. **Clone or download the project**
-	 ```bash
-	 cd e:\tuf-assignment
-	 ```
+2. **Clone or download the project**
+	```bash
+	cd tuf-calendar
+	```
 
 2. **Install dependencies**
 	 ```bash
